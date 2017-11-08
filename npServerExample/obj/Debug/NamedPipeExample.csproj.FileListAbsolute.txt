@@ -1,0 +1,6 @@
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\bin\Debug\NamedPipeExample.exe
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\bin\Debug\NamedPipeExample.pdb
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\obj\Debug\NamedPipeExample.csprojResolveAssemblyReference.cache
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\obj\Debug\NamedPipeExample.csproj.CoreCompileInputs.cache
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\obj\Debug\NamedPipeExample.exe
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\obj\Debug\NamedPipeExample.pdb

@@ -1,0 +1,16 @@
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\bin\Debug\NamedPipeExample.exe
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\bin\Debug\npServer.dll
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\bin\Debug\npServer.pdb
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\obj\Debug\npServerExample.csprojResolveAssemblyReference.cache
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\obj\Debug\npServerExample.csproj.CoreCompileInputs.cache
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\obj\Debug\NamedPipeExample.exe
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\obj\Debug\NamedPipeExample.pdb
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\NamedPipeExample\bin\Debug\NamedPipeExample.pdb
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npServerExample\bin\Debug\NamedPipeExample.exe
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npServerExample\bin\Debug\NamedPipeExample.pdb
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npServerExample\bin\Debug\npServer.dll
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npServerExample\bin\Debug\npServer.pdb
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npServerExample\obj\Debug\npServerExample.csprojResolveAssemblyReference.cache
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npServerExample\obj\Debug\npServerExample.csproj.CoreCompileInputs.cache
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npServerExample\obj\Debug\NamedPipeExample.exe
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npServerExample\obj\Debug\NamedPipeExample.pdb

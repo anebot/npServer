@@ -1,0 +1,5 @@
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npServer\bin\Debug\npServer.dll
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npServer\bin\Debug\npServer.pdb
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npServer\obj\Debug\npServer.csproj.CoreCompileInputs.cache
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npServer\obj\Debug\npServer.dll
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npServer\obj\Debug\npServer.pdb

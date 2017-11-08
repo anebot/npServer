@@ -1,0 +1,16 @@
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npClient\obj\Debug\npClientExample.csproj.CoreCompileInputs.cache
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npClient\bin\Debug\npClient.exe
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npClient\bin\Debug\npClient.pdb
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npClient\bin\Debug\npServer.dll
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npClient\bin\Debug\npServer.pdb
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npClient\obj\Debug\npClient.exe
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npClient\obj\Debug\npClient.pdb
+c:\users\artur.nebot\documents\visual studio 2017\Projects\NamedPipeExample\npClient\obj\Debug\npClientExample.csprojResolveAssemblyReference.cache
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npClientExample\bin\Debug\npClient.exe
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npClientExample\bin\Debug\npClient.pdb
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npClientExample\bin\Debug\npServer.dll
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npClientExample\bin\Debug\npServer.pdb
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npClientExample\obj\Debug\npClientExample.csprojResolveAssemblyReference.cache
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npClientExample\obj\Debug\npClientExample.csproj.CoreCompileInputs.cache
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npClientExample\obj\Debug\npClient.exe
+C:\Users\artur.nebot\Documents\Visual Studio 2017\Projects\NamedPipeExample\npClientExample\obj\Debug\npClient.pdb
